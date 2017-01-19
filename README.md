@@ -2,5 +2,5 @@
 Multi-robot adaptive sampling for spatio-temporal scalar field
 
 Required <br />
-  Windows <br />
-  [Anaconda](https://www.continuum.io/downloads) and [GPy](https://github.com/SheffieldML/GPy)
+  Windows and Python 2.7 version <br />
+  [Anaconda](https://www.continuum.io/downloads) python distribution and [GPy](https://github.com/SheffieldML/GPy) package
